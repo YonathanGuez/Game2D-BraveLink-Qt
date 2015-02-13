@@ -1,0 +1,34 @@
+backGroundBrush :/new/new/images/mur.jpg
+tree 0 100
+tree 0 200
+tree 0 300
+tree 0 400
+tree 0 500
+tree 0 600
+tree 0 0
+tree 100 0
+tree 200 0
+tree 300 0
+tree 400 0
+tree 500 0
+tree 600 0
+tree 700 0
+tree 800 0
+tree 900 0
+tree 900 100
+tree 900 200
+tree 900 300
+tree 900 400
+tree 900 500
+tree 900 600
+tree 100 600
+tree 200 600
+tree 300 600
+tree 400 600
+tree 500 600
+tree 600 600
+tree 700 600
+tree 800 600
+tree 900 600
+bonus 400 400 coeur
+door 600 300 :new/new/niveau/Win.txt 700 100

@@ -1,0 +1,43 @@
+backGroundBrush :/new/new/images/terrain.jpg
+wall 0 0 100
+wall 15 100 100
+wall 0 200 100
+wall 15 300 100
+wall 0 400 100
+wall 15 500 100
+wall 0 600 100
+wall 100 15 100
+wall 200 0 100
+wall 300 15 100
+wall 400 0 100
+wall 500 15 100
+wall 600 0 100
+wall 700 15 100
+wall 800 0 100
+wall 900 15 100
+wall 900 100 100
+wall 915 200 100
+wall 900 300 100
+wall 915 400 100
+wall 900 500 100
+wall 915 600 100
+wall 100 615 100
+wall 200 600 100
+wall 300 615 100
+wall 400 600 100
+door 500 615 100 :new/new/niveau/level7.txt 100 100
+wall 600 600 100
+wall 700 615 100
+wall 800 600 100
+water 400 300 100
+water 415 400 100
+tree2 700 500 100
+extinct 400 100 100 bonus
+feuille 820 350 50
+feuille 820 400 50
+goumba1 200 100
+goumba2 500 300
+goumba1 400 200
+goumba2 200 400
+sonic 100 300
+

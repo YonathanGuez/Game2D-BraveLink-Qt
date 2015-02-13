@@ -1,0 +1,35 @@
+backGroundBrush :/new/new/images/mur.jpg
+tree 0 100 100
+tree 0 200 100
+door 0 300 100:new/new/niveau/level9.txt 100 100
+tree 0 400 100
+tree 0 500 100
+tree 0 600 100
+tree 0 0 100
+tree 100 0 100
+tree 200 0 100
+tree 300 0 100
+tree 400 0 100
+tree 500 0 100
+tree 600 0 100
+tree 700 0 100
+tree 800 0 100
+tree 900 0 100
+tree 900 100 100
+tree 900 200 100
+door 900 300 100 :new/new/niveau/level7.txt 100 500
+tree 900 400 100
+tree 900 500 100
+tree 900 600 100
+tree 100 600 100
+tree 200 600 100
+tree 300 600 100
+tree 400 600 100
+tree 500 600 100
+tree 600 600 100
+tree 700 600 100
+tree 800 600 100
+tree 900 600 100
+boss 150 150 100
+botte 600 500 100 bonus
+coca 200 500 100 bonus

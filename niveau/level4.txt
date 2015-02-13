@@ -1,0 +1,49 @@
+backGroundBrush :/new/new/images/cloud.png
+cloud 15 100 100
+cloud 0 200 100
+cloud 15 300 100
+cloud 0 400 100
+door 15 500 100 :new/new/niveau/level5.txt 800 300
+cloud 0 600 100
+cloud 15 0 100
+cloud 100 0 100
+cloud 200 15 100
+cloud 300 0 100
+cloud 400 15 100
+cloud 500 0 100
+cloud 600 15 100
+cloud 700 0 100
+cloud 800 15 100
+cloud 900 0 100
+door 915 100 100:new/new/niveau/level3.txt 500 500
+cloud 900 200 100
+cloud 915 300 100
+cloud 900 400 100
+cloud 915 500 100
+cloud 100 615 100
+cloud 200 600 100
+cloud 300 615 100
+cloud 400 600 100
+cloud 500 615 100
+cloud 600 600 100
+cloud 700 615 100
+cloud 800 600 100
+cloud 900 615 100
+cloud 800 200 50
+cloud 800 400 50
+cloud 650 200 50
+cloud 650 400 50
+cloud 500 200 50
+cloud 500 400 50
+cloud 550 200 50
+cloud 550 400 50
+cloud 450 200 50
+cloud 450 400 50
+cloud 400 200 50
+cloud 400 400 50
+cloud 350 200 50
+cloud 350 400 50
+botte 100 100 100 bonus
+botte 700 500 100 bonus
+coeur 700 500 100 bonus
+boss 130 300

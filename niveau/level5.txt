@@ -1,0 +1,51 @@
+backGroundBrush :/new/new/images/terrain.jpg
+fire 0 100 100
+fire 0 200 100
+fire 0 300 100
+fire 100 300 100
+fire 200 300 100
+fire 0 400 100
+door 0 500 100:new/new/niveau/level6.txt 500 100
+fire 0 600 100
+fire 0 0 100
+fire 100 0 100
+fire 200 0 100
+fire 300 0 100
+fire 400 0 100
+fire 500 0 100
+fire 600 0 100
+fire 700 0 100
+fire 800 0 100
+fire 900 0 100
+fire 900 100 100
+fire 900 200 100
+door 900 300 100 :new/new/niveau/level4.txt 100 500
+fire 900 400 100
+fire 900 500 100
+fire 900 600 100
+fire 100 600 100
+fire 200 600 100
+fire 300 600 100
+fire 400 600 100
+fire 500 600 100
+fire 600 600 100
+fire 700 600 100
+fire 800 600 100
+fire 900 600 100
+fire1 250 250 50 malus
+fire1 250 300 50 malus
+fire1 250 350 50 malus
+fire1 250 400 50 malus
+fire1 300 250 50 malus
+fire1 350 250 50 malus
+fire1 300 400 50 malus
+fire1 350 400 50 malus
+fire1 400 250 50 malus
+fire1 400 300 50 malus
+fire1 400 350 50 malus
+fire1 400 400 50 malus
+goumba1 200 130
+goumba1 300 150
+goumba1 400 170
+sciseaux 120 120 50 bonus
+diamant 325 325 100 bonus

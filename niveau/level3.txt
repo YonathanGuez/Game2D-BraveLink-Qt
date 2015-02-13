@@ -1,0 +1,49 @@
+backGroundBrush :/new/new/images/terrain.jpg
+tree2 0 100 100
+tree2 15 200 100
+tree2 0 300 100
+tree2 15 400 100
+tree2 0 500 100
+tree2 15 600 100
+tree2 0 0 100
+tree2 100 0 100
+tree2 200 15 100
+tree2 300 0 100
+tree2 400 15 100
+door 500 0 100:new/new/niveau/level2.txt 800 300
+tree2 600 15 100
+tree2 700 0 100
+tree2 800 15 100
+tree2 900 0 100
+tree2 915 100 100
+tree2 900 200 100
+tree2 915 300 100
+tree2 900 400 100
+tree2 915 500 100
+tree2 900 600 100
+tree2 100 615 100
+tree2 200 600 100
+tree2 300 615 100
+tree2 400 600 100
+door 500 615 100 :new/new/niveau/level4.txt 800 150
+tree2 600 600 100
+tree2 700 615 100
+tree2 800 600 100
+tree2 900 615 100
+roche 200 200 100
+roche 300 200 100
+roche 400 200 100
+roche 500 200 100
+roche 600 100 100
+roche 600 200 100
+roche 400 500 100
+roche 400 400 100
+roche 500 400 100
+roche 600 400 100
+feuille 800 100 50 malus
+feuille 800 200 50 malus
+feuille 800 300 50 malus
+feuille 800 400 50 malus
+sonic 300 400
+sonic 200 350
+sonic 800 500

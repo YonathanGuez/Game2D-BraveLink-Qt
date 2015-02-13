@@ -1,0 +1,40 @@
+backGroundBrush :/new/new/images/mur.jpg
+tree2 0 100 100
+tree2 0 200 100
+tree2 0 300 100
+tree2 0 400 100
+tree2 0 500 100
+tree2 0 600 100
+tree2 0 0 100
+tree2 100 0 100
+tree2 200 0 100
+tree2 300 0 100
+tree2 400 0 100
+tree2 500 0 100
+tree2 600 0 100
+tree2 700 0 100
+tree2 800 0 100
+tree2 900 0 100
+tree2 900 100 100
+tree2 900 200 100
+door 900 300 100 :new/new/niveau/level10.txt 500 100
+tree2 900 400 100
+tree2 900 500 100
+tree2 900 600 100
+tree2 100 600 100
+tree2 200 600 100
+door 300 600 100:new/new/niveau/level8.txt 100 300
+tree2 400 600 100
+tree2 500 600 100
+tree2 600 600 100
+tree2 700 600 100
+tree2 800 600 100
+tree2 900 600 100
+bonus 400 400 coeur
+sonic 200 200
+sonic 300 250
+sonic 400 300
+sonic 500 350
+sonic 600 400
+sonic 700 450
+

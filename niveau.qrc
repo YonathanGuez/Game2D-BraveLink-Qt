@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/new">
+        <file>niveau/level1.txt</file>
+        <file>niveau/level2.txt</file>
+        <file>niveau/level3.txt</file>
+        <file>niveau/level4.txt</file>
+        <file>niveau/level5.txt</file>
+        <file>niveau/level6.txt</file>
+        <file>niveau/level7.txt</file>
+        <file>niveau/level8.txt</file>
+        <file>niveau/level9.txt</file>
+        <file>niveau/level10.txt</file>
+        <file>niveau/win.txt</file>
+        <file>niveau/troque.txt</file>
+    </qresource>
+</RCC>

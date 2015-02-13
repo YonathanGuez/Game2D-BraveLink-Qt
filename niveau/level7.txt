@@ -1,0 +1,46 @@
+backGroundBrush :/new/new/images/terrain.jpg
+tree 0 100 100
+tree 0 200 100
+tree 0 300 100
+tree 0 400 100
+door 0 500 100:new/new/niveau/level8.txt 800 300
+tree 0 600 100
+tree 0 0 100
+door 100 0 100 :new/new/niveau/troque.txt 500 120
+tree 200 0 100
+tree 300 0 100
+tree 400 0 100
+door 500 0 100:new/new/niveau/level3.txt 500 100
+tree 600 0 100
+tree 700 0 100
+tree 800 0 100
+tree 900 0 100
+door 900 100 100:new/new/niveau/level6.txt 500 500
+tree 900 200 100
+tree 900 300 100
+tree 900 400 100
+tree 900 500 100
+tree 900 600 100
+tree 100 600 100
+tree 200 600 100
+tree 300 600 100
+tree 400 600 100
+tree 500 600 100
+tree 600 600 100
+tree 700 600 100
+tree 800 600 100
+tree 900 600 100
+tree2 800 500 100
+tree2 700 500 100
+tree2 600 500 100
+tree2 800 400 100
+tree2 700 400 100
+roche 400 300 100
+roche 300 300 100
+roche 300 200 100
+sonic 100 500
+sonic 100 100
+goumba2 700 300
+goumba1 600 100
+goumba1 600 400
+goumba1 300 100

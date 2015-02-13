@@ -1,0 +1,40 @@
+backGroundBrush :/new/new/images/espace.jpg
+tree 0 100 100
+tree 0 200 100
+tree 0 300 100
+tree 0 400 100
+tree 0 500 100
+tree 0 600 100
+tree 0 0 100
+tree 100 0 100
+tree 200 0 100
+tree 300 0 100
+tree 400 0 100
+door 500 0 100 :new/new/niveau/level9.txt 800 300
+tree 600 0 100
+tree 700 0 100
+tree 800 0 100
+tree 900 0 100
+tree 900 100 100
+tree 900 200 100
+tree 900 300 100
+tree 900 400 100
+tree 900 500 100
+tree 900 600 100
+tree 100 600 100
+tree 200 600 100
+tree 300 600 100
+tree 400 600 100
+tree 500 600 100
+tree 600 600 100
+tree 700 600 100
+tree 800 600 100
+tree 900 600 100
+link 500 500 100
+fire2 400 500 100 block
+fire2 600 500 100 block
+fire2 400 400 100 block
+fire2 500 400 100 block
+fire2 600 400 100 block
+boss 150 450 100
+boss 750 450 100

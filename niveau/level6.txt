@@ -1,0 +1,40 @@
+backGroundBrush :/new/new/images/espace.jpg
+tree 0 100 100
+tree 0 200 100
+tree 0 300 100
+tree 0 400 100
+tree 0 500 100
+tree 0 600 100
+tree 0 0 100
+tree 100 0 100
+tree 200 0 100
+tree 300 0 100
+tree 400 0 100
+door 500 0 100 :new/new/niveau/level5.txt 100 500
+tree 600 0 100
+tree 700 0 100
+tree 800 0 100
+tree 900 0 100
+tree 900 100 100
+tree 900 200 100
+tree 900 300 100
+tree 900 400 100
+tree 900 500 100
+tree 900 600 100
+tree 100 600 100
+tree 200 600 100
+tree 300 600 100
+tree 400 600 100
+door 500 600 100:new/new/niveau/level7.txt 800 100
+tree 600 600 100
+tree 700 600 100
+tree 800 600 100
+tree 900 600 100
+bonus 400 400 coeur
+eiffel 500 300 100
+liberte 400 300 100
+liberte 600 300 100
+sonic 200 200
+sonic 700 200
+goumba2 300 300
+goumba2 700 300
