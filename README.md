@@ -11,3 +11,6 @@ p : pause
 If you take a weapon same as  scissors or extinguisher :
 x : scissors
 w : extinguisher
+
+Video :
+[![](https://i.ytimg.com/vi/BXxhM01Q9Zw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAB1rSDsjgvCL6454TMklhVNW_dIQ)](https://www.youtube.com/watch?v=BXxhM01Q9Zw)
